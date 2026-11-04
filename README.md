@@ -10,7 +10,8 @@ Global Solution - Aprendizado Profundo com Redes Neurais Convolucionais
 - ⁠Sofia Fernandes de Lima Oliveira - 567824
 
 ## Aplicação web
-🔗 [COLOQUE AQUI O LINK DO STREAMLIT]
+https://classificadorderoubofurto.streamlit.app
+
 
 ## Sobre o projeto
 MLP que classifica uma ocorrência já registrada como **roubo** ou **furto** na cidade de São Paulo.
